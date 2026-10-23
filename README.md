@@ -133,17 +133,17 @@ The goal is to keep the interface simple and easy to understand.
 
 ## 📈 Development Progress
 
-- [ ] Create the main Tkinter window
-- [ ] Add the timer display
-- [ ] Add Start and Reset buttons
-- [ ] Implement the countdown
-- [ ] Update the timer display during the countdown
-- [ ] Add work-session logic
-- [ ] Add short-break logic
-- [ ] Add long-break logic
-- [ ] Track completed work sessions
-- [ ] Add visual indicators for completed sessions
-- [ ] Test timer behavior and session transitions
+- [x] Create the main Tkinter window
+- [x] Add the timer display
+- [x] Add Start and Reset buttons
+- [x] Implement the countdown
+- [x] Update the timer display during the countdown
+- [x] Add work-session logic
+- [x] Add short-break logic
+- [x] Add long-break logic
+- [x] Track completed work sessions
+- [x] Add visual indicators for completed sessions
+- [x] Test timer behavior and session transitions
 - [ ] Refine the GUI layout
 - [ ] Refactor and organize the code
 
